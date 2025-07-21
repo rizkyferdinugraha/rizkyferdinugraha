@@ -1,3 +1,5 @@
+[![roadmap.sh](https://roadmap.sh/card/wide/64ef4f5ab128dce3cb90e262?variant=light)](https://roadmap.sh)
+
 # Halo, Saya Rizky Ferdi Nugraha 👋
 
 Selamat datang di profil GitHub saya!  
@@ -8,7 +10,7 @@ Saya sedang belajar dan mendalami framework **Laravel** sebagai langkah pertama 
 - 🌱 Saya berkomitmen meningkatkan kemampuan saya, terutama dalam PHP dan teknologi pendukung web lainnya.
 - 👯 Saya terbuka untuk kolaborasi di proyek-proyek yang bisa membantu saya belajar sekaligus berkontribusi.
 - 💬 Jangan ragu untuk berdiskusi atau berbagi pengalaman seputar Laravel dan pengembangan web.
-- 📫 Kamu bisa menghubungi saya lewat email: rizkyferdinugraha@gmail.com
+- 📫 Kamu bisa menghubungi saya lewat email: [rizkyferdinugraha@gmail.com](mailto:rizkyferdinugraha@gmail.com)
 
 ## Keahlian
 - Sedang belajar: PHP, Laravel, MySQL
