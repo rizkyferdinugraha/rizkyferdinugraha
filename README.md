@@ -1,24 +1,7 @@
-[![roadmap.sh](https://roadmap.sh/card/wide/64ef4f5ab128dce3cb90e262?variant=light)](https://roadmap.sh)
+I'm Rizky Ferdi Nugraha, helping small businesses through web development.
 
-# Halo, Saya Rizky Ferdi Nugraha 👋
+I enjoy building websites and digital tools designed to simplify business processes, strengthen brand identity, and unlock new opportunities. For me, software is more than just code—it's a way to solve real problems through clean, intuitive, and adaptable interfaces.
 
-Selamat datang di profil GitHub saya!  
-Saya sedang belajar dan mendalami framework **Laravel** sebagai langkah pertama saya dalam bidang pengembangan web. Meskipun latar belakang saya bukan web developer, saya sangat antusias untuk terus belajar dan berkembang di bidang ini.
+In my projects, I use various open-source tools for their flexibility and proven approaches. This helps me explore practical solutions that can be applied directly to real-world needs.
 
-## Tentang Saya
-- 🔭 Saat ini saya fokus mempelajari Laravel dan konsep dasar pengembangan aplikasi web.
-- 🌱 Saya berkomitmen meningkatkan kemampuan saya, terutama dalam PHP dan teknologi pendukung web lainnya.
-- 👯 Saya terbuka untuk kolaborasi di proyek-proyek yang bisa membantu saya belajar sekaligus berkontribusi.
-- 💬 Jangan ragu untuk berdiskusi atau berbagi pengalaman seputar Laravel dan pengembangan web.
-- 📫 Kamu bisa menghubungi saya lewat email: [rizkyferdinugraha@gmail.com](mailto:rizkyferdinugraha@gmail.com)
-
-## Keahlian
-- Sedang belajar: PHP, Laravel, MySQL
-- Dasar-dasar pemrograman dan algoritma
-- Versi kontrol dengan Git
-
-Terima kasih sudah mampir ke profil saya! Saya berharap bisa terus berkembang dan berkontribusi di komunitas developer. Jangan lupa follow saya untuk update perkembangan saya! 🚀
-
----
-
-*Semangat belajar adalah kunci untuk membuka peluang baru.*
+Beyond programming, I actively follow emerging technologies, digital business trends, and product development strategies. Cross-disciplinary understanding plays an important role in creating solutions that are relevant, sustainable, and ready for real-world challenges.
